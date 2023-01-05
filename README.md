@@ -3,6 +3,10 @@
 
 This is a daily habits tracking application that helps users track their progress and stay motivated. It was built using [Streamlit](https://www.streamlit.io/) and [ChatGPT](https://openai.com/blog/chatgpt/).
 
+
+![A screenshot of the app](app.png)
+
+
 ## Features
 
 - Select default habits from a list or add new habits
